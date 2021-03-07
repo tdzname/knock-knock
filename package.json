@@ -1,0 +1,9 @@
+{
+  "name": "knock-knock",
+  "version": "1.0.0",
+  "description": "A node.js backend for fun",
+  "main": "index.ts",
+  "repository": "git@github.com:tdzname/knock-knock.git",
+  "author": "Zoheir Khonyagar <zoheirkhonyagar@gmail.com>",
+  "license": "MIT"
+}
